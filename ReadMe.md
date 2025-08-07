@@ -12,7 +12,7 @@ The dataset consists of 10,000 customer records, containing key demographic and 
 
 ## Data Highlights
 - Includes demographic info, tenure, credit card ownership, account balance, and churn status
-- Visuals used: box plots, bar charts, histograms, and heat maps
+- Visuals used: box plots, pie charts, bar charts, histograms, and heat maps
 
 ## Main Insights
 - High-balance customers are more likely to churn
