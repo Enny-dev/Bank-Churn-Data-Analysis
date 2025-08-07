@@ -22,10 +22,12 @@ The dataset consists of 10,000 customer records, containing key demographic and 
 - Tenure shows a non-linear relationship with churn
 
 ## Business Recommendations
-1. **Improve Credit Card Uptake** – Promote to customers without cards
-2. **Loyalty Programs** – Especially for high-balance or long-tenure clients
-3. **Geo-targeted Interventions** – Especially in high-risk regions
-4. **Review Inactive Accounts** – Investigate zero-balance accounts
+1. Focus on high-income and high-balance customers to reduce churn by offering loyalty programs, premium services, or financial planning sessions.
+2. Since female customers have a higher churn, gender specific customer satisfaction surveys could be conducted.
+3. Focus on retention in high-churn areas like Germany. Conduct a deep dive into the customer service experience, or consider localized campaigns.
+4. Implement targeted offers for women and senior customers.
+5. Promote credit card services to improve engagement by providing credit card benefits and rewards.
+6. Monitor customer tenure lifecycle to intervene early by setting up periodic check-ins with customers.
 
 ## Deliverables
 - PowerPoint presentation (10 slides)
