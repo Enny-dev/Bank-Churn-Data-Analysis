@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes a bank's customer data to identify patterns of churn and suggest actionable insights to improve retention and service.
 
+The dataset consists of 10,000 customer records, containing key demographic and financial details of bank customers. This dataset includes fields such as customer information (e.g., Name, Customer ID), financial performance indicators (e.g., Credit Score, Balance), and customer engagement metrics (e.g., Tenure, Number of Products, IsActiveMember). Additionally, it includes whether the customer has exited the bank or remains active.
+
 ## Key Questions
 - What demographic or behavioral traits are associated with churn?
 - Which customer segments are at highest risk?
